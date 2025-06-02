@@ -84,8 +84,3 @@ Este projeto consiste em desenvolver uma aplicação para cadastro de licitaçõ
 
 ---
 
-## License
-
-Eu, **Julia Vitória Freire Silva**,  
-declaro que todo código contido neste repositório é de minha autoria e não contém conteúdo ilegal ou de terceiros sem autorização explícita.  
-Também autorizo que o Portal de Compras Públicas utilize livremente o conteúdo deste repositório.
