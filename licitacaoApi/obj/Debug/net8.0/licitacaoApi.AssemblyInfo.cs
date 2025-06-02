@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("licitacaoApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8db590fb3c653f043932dccd173e0852497c814")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fec62b8ac4e7cab2591d6000ab6e1ea5e35f6941")]
 [assembly: System.Reflection.AssemblyProductAttribute("licitacaoApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("licitacaoApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

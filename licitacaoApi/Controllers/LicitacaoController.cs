@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Internal;
 namespace LicitacaoAPI.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/Licitacao")]
 
     public class LicitacaoController : ControllerBase
     {
