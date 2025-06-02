@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O1UWg/NAzA4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julia.silva\\Documents\\Cadastro-de-Licitacoes\\licitacaoApi\\licitacaoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia.silva\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\julia.silva\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
